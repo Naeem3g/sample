@@ -1,3 +1,7 @@
 h2 {
     color: #16a085;
 }
+
+p:last-child {
+    color: #9b59b6;
+}
